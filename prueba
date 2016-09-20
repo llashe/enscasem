@@ -1,2 +1,12 @@
-<h1> Ens casem</h1>
-<p> Volem compartir amb tots volsatres aquest dia tan especial </p>
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Ens casem</title>
+	<meta charset="utf-8"/>
+	<link rel="stylesheet" type="text/css" href="main.css">
+</head>
+<body>
+	<h1>Ens casem</h1>
+	<p> Volem compartir amb vosaltres aquest dia tan especial.... </p>
+</body>
+</html>
