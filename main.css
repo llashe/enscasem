@@ -1,8 +1,10 @@
-ody {
+body {
   font-family: 'Roboto', sans-serif;
   font-weight: 300;
 }
-
+h1 {
+  background-image: url("https://3.bp.blogspot.com/-B96ezTDEFsI/VwZOY1hY5oI/AAAAAAAAGbo/5qIGeQ2Z868vo2gxT3bM9QpZOPAppQUig/s1600/bici%2Bcon%2BnoviosCOLOR%2Bfacebook-01.jpg");
+}
 header {
   padding: 20px 0;
 }
